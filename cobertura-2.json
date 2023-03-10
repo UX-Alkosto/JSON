@@ -7,7 +7,7 @@
                 "id_tienda": 1,
                 "name_tienda": "Alkosto Avenida 68",
                 "direccion": "Av Cr 68 No. 72 - 43",
-                "como_llegar": "https://www.google.com/maps/dir//Alkosto+Avenida+68,+Ak+68+%2372-43,+Bogot%C3%A1/@4798383,-74.085863,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9b1baf5b732f:0xaf7808bcf4904255!2m2!1d-74.085863!2d4798383?hl=es",
+                "como_llegar": "https://www.google.com/maps/dir//Alkosto+Avenida+68,+Ak+68+%2372-43,+Bogot%C3%A1/@4.6798374,-74.1208825,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e3f9b1baf5b732f:0xaf7808bcf4904255!2m2!1d-74.085863!2d4.6798383?hl=es",
                 "hora_apertura": "07:00",
                 "hora_cierre": "21:00",
                 "hora_apertura_dom": "07:00",
@@ -84,7 +84,7 @@
             "hora_apertura_dom": "08:00",
             "hora_cierre_dom": "21:00",
             "horario_especial": "",
-            "url_tienda": "https://www.alkosto.com/nuestra-compania/tiendas/bogota/avenida-68/c/avenida-68"
+            "url_tienda": "https://www.alkosto.com/nuestra-compania/tiendas/barranquilla/buenavista/c/buenavista"
 
         }]
     },
@@ -162,7 +162,7 @@
                 "id_tienda": 11,
                 "name_tienda": "Alkosto Ipiales 20 de Julio",
                 "direccion": "Cr 5A No. 8-36, Parque 20 de Julio",
-                "como_llegar": "https://www.google.com/maps/dir//Alkosto+20+de+Julio+Ipiales,+Cl.+3+%238+%E2%80%93+36,+Ipiales,+Nari%C3%B1o/@024158,-77368657,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e296b4f761a03bd:0xbfbc573597792f6a!2m2!1d-7734677!2d024158!3e0?authuser=1",
+                "como_llegar": "https://www.google.com/maps/dir//Alkosto+20+de+Julio+Ipiales,+Cl.+3+%238+%E2%80%93+36,+Ipiales,+Nari%C3%B1o/@0.8243416,-77.6696935,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8e296b4f761a03bd:0xbfbc573597792f6a!2m2!1d-77.634674!2d0.8243418!3e0?authuser=1",
                 "hora_apertura": "08:00",
                 "hora_cierre": "20:00",
                 "hora_apertura_dom": "08:00",
