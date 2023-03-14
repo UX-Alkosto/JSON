@@ -108,6 +108,25 @@
         }]
     },
     {
+        "value": "Floridablanca",
+        "label": "Floridablanca",
+        "dep": "Santander",
+        "desc": "tienda",
+        "info_tienda": [{
+            "id_tienda": 19,
+            "name_tienda": "Alkosto Floridablanca",
+            "direccion": "Anillo vial km 2.5 Girón, Bucaramanga",
+            "como_llegar": "https://www.google.com/maps/dir//Alkosto+Floridablanca,+Anillo+Vial,+Floridablanca,+Santander/@7.061522,-73.1525327,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8e683f142ae82f11:0x67d229ba1a2c364f!2m2!1d-73.1175132!2d7.0615233?hl=es",
+            "hora_apertura": "07:00",
+            "hora_cierre": "21:00",
+            "hora_apertura_dom": "07:00",
+            "hora_cierre_dom": "21:00",
+            "horario_especial": "",
+            "url_tienda": "https://www.alkosto.com/nuestra-compania/tiendas/bucaramanga/floridablanca/c/floridablanca"
+
+        }]
+    },
+    {
         "value": "Cali",
         "label": "Cali",
         "dep": "Valle del Cauca",
@@ -133,7 +152,7 @@
                 "hora_apertura": "07:00",
                 "hora_cierre": "22:00",
                 "hora_apertura_dom": "08:00",
-                "hora_cierre_dom": "22:00",
+                "hora_cierre_dom": "21:00",
                 "horario_especial": "",
                 "url_tienda": "https://www.alkosto.com/nuestra-compania/tiendas/cali/carrera-1/c/carrera-1"
 
@@ -361,15 +380,6 @@
         "dep": "Santander",
         "desc": "envio",
         "nombre_ciudad": "Giron",
-        "tiempo_entrega": 1,
-        "horario_entrega": "De 8:00 a.m. a 8:00 p.m."
-    },
-    {
-        "value": "Florida Blanca",
-        "label": "Florida Blanca",
-        "dep": "Santander",
-        "desc": "envio",
-        "nombre_ciudad": "Florida Blanca",
         "tiempo_entrega": 1,
         "horario_entrega": "De 8:00 a.m. a 8:00 p.m."
     },
